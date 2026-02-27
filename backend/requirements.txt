@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+websockets
+networkx
+pandas
+scikit-learn
+torch
+torch-geometric
+python-louvain

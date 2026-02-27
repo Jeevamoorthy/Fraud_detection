@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.log
+
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Dataset/Models (Large files or local artifacts)
+dataset/synthetic_transactions.csv
+# Uncomment if you don't want to push the trained model
+# models/trained_gnn.pt
