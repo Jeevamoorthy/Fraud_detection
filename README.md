@@ -41,3 +41,7 @@ docker-compose up --build
 3. `npm run dev`
 
 Launch the app and click **Run Attack Simulation** to watch the real-time GNN at work!
+
+<img width="1867" height="936" alt="image" src="https://github.com/user-attachments/assets/b0255fc4-11f3-4d65-a8dd-3272a20d766a" />
+
+
